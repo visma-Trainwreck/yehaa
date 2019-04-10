@@ -61,9 +61,9 @@
     (cond-> game-state
             colides       (gravity)
             (not colides) (assoc-in  [:player :velY] 0)
-            (not colides)       (assoc-in [:player :y]
-                                          (- (:y @colliders/platform)
-                                             1))
+            false       (assoc-in [:player :y]
+                                  (- (:y @colliders/platform)
+                                     1))
             true          (move))))
 
 

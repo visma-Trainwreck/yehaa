@@ -117,6 +117,7 @@
 
 
 
+
 (defn bounce-powerup
   [statelist]
   (let [ball (first (filter (fn [state] (if (= "object" (:type state))
