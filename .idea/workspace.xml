@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3c151bb-651d-4f00-8724-47cfe88735d9" name="Default Changelist" comment="new stuff i got no clue">
-      <change afterPath="$PROJECT_DIR$/src/vehicle.clj" afterDir="false" />
+    <list default="true" id="b3c151bb-651d-4f00-8724-47cfe88735d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vehicle.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicle.clj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/vehicle.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="85">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -189,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="GoToNamespace.includeLibraries" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555356352418" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555356441347" />
     <property name="cursive.last.file.extension.C\:/Users/peter.l.rasmussen/Documents/project/yehaa/src" value="clj" />
     <property name="last_opened_file_path" value="$USER_HOME$/Clojure Test Projects/ejendomme-og-grunde-poc-workzone-contacts2/ejendomme-og-grunde-poc-workzone-contacts2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -275,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554909024484</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added car">
+      <created>1555356375909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555356375909</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -315,7 +322,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my git test" />
     <MESSAGE value="new stuff i got no clue" />
-    <option name="LAST_COMMIT_MESSAGE" value="new stuff i got no clue" />
+    <MESSAGE value="added car" />
+    <option name="LAST_COMMIT_MESSAGE" value="added car" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.9.0/clojure-1.9.0.jar!/clojure/core.clj">
@@ -429,8 +437,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vehicle.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>

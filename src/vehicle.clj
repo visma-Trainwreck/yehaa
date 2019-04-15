@@ -2,3 +2,5 @@
 
 
 (def firstcar "Opel")
+
+(def secondcar "bmw")
