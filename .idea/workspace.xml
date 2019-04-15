@@ -70,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/vehicle.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="153">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -189,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="GoToNamespace.includeLibraries" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555356463599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555356529968" />
     <property name="cursive.last.file.extension.C\:/Users/peter.l.rasmussen/Documents/project/yehaa/src" value="clj" />
     <property name="last_opened_file_path" value="$USER_HOME$/Clojure Test Projects/ejendomme-og-grunde-poc-workzone-contacts2/ejendomme-og-grunde-poc-workzone-contacts2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -289,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555356450840</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added mercedes">
+      <created>1555356483251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555356483251</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -330,7 +337,8 @@
     <MESSAGE value="my git test" />
     <MESSAGE value="new stuff i got no clue" />
     <MESSAGE value="added car" />
-    <option name="LAST_COMMIT_MESSAGE" value="added car" />
+    <MESSAGE value="added mercedes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mercedes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.9.0/clojure-1.9.0.jar!/clojure/core.clj">
@@ -444,8 +452,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vehicle.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
