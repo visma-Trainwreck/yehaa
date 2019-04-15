@@ -113,6 +113,7 @@
       :else (conj ball {:velx (+ gamestats/freewind (:velX ball))}))))
 
 
+(def testererer "git-test")
 
 
 
